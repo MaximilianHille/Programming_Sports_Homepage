@@ -2,3 +2,5 @@
 
 
 Hi freaks.
+
+var firstName = "Maximilian";
